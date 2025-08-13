@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "products": [
+    {
+      "name": "Nike Air Max 90 Essential Men's Shoes",
+      "price": "$89.99",
+      "shipping": "Free shipping",
+      "condition": "Brand New",
+      "location": "United States",
+      "series": "Air Max 90",
+      "seller": "nike_official_store",
+      "itemNumber": "123456789012",
+      "description": "Classic Nike Air Max 90 with visible Air cushioning, durable leather and textile upper, perfect for everyday wear."
+    },
+    {
+      "name": "Nike Air Force 1 '07 White",
+      "price": "$90.00",
+      "shipping": "$5.99 shipping",
+      "condition": "New with box",
+      "location": "California",
+      "series": "Air Force 1",
+      "seller": "sneaker_world",
+      "itemNumber": "234567890123",
+      "description": "Iconic basketball shoe with premium leather construction, Air-Sole unit for cushioning, and timeless white colorway."
+    }
+  ]
+}
